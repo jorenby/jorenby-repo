@@ -1,5 +1,7 @@
-some file crap
+some file crap           
 
-a few changes
+              a few changes
 
-a few more
+      a few more
+
+whitesapce changes
